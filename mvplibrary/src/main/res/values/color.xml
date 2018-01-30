@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nav_bar_color_white">#fff</color>
+    <color name="nav_bar_color_black">#000</color>
+    <color name="status_bar_color_white">#fff</color>
+    <color name="status_bar_color_black">#000</color>
+</resources>
